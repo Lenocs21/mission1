@@ -19,7 +19,7 @@ example: Artificial Intelligence, mechanical learning, calculation, inventation 
 
 ### HTML and CSS
 ![HTML icnon](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png)
-![CSS icnon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png0)
+![CSS icon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png)
 
 
 ###Markup language
