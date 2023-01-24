@@ -4,6 +4,7 @@
 ### C/C++ language
 ![C icon](https://img.icons8.com/color/512/c-programming.png)
 ![C++ icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png)
+
 Good for controlling machine
 
 ### python
@@ -12,6 +13,7 @@ Good for controlling machine
 
 Good for many kinds of programming 
 example: Artificial Intelligence, mechanical learning, calculation, inventation of app,,,
+
 
 ### PHP
 ![PHP icon](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/121px-PHP-logo.svg.png)
